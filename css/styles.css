@@ -738,7 +738,8 @@
             height: 40px;
             border-radius: 4px;
             opacity: 0.2;
-            /* margin-top: 4px; */
+            padding: 14px 19px;
+            padding-left: 38px;
             margin-bottom: 8px;
             border: 1px solid var(--background-color);
             outline: transparent;
